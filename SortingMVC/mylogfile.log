@@ -1,16 +1,14 @@
-FILE [INFO ] 2021-12-01 21:39:27,053 main My MVC SortingManager - The user has selected the bubble algorithm using lists
-FILE [INFO ] 2021-12-01 21:39:27,067 main My MVC SortingManager - Successful Bubble Sort
-FILE [INFO ] 2021-12-01 21:42:38,319 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
-FILE [INFO ] 2021-12-01 21:42:38,332 main My MVC SortingManager - Successful Bubble Sort
-FILE [INFO ] 2021-12-01 21:42:38,334 main My MVC SortingManager - The sort algorithm took  0.001415 seconds to run
-FILE [INFO ] 2021-12-01 22:57:21,152 main My MVC SortingManager - The user has selected the collection algorithm using arrays
-FILE [INFO ] 2021-12-01 22:57:21,174 main My MVC SortingManager - Successful Collection Sort
-FILE [INFO ] 2021-12-01 22:57:21,176 main My MVC SortingManager - The sort algorithm took  0.001819 seconds to run
-FILE [INFO ] 2021-12-02 09:52:21,973 main My MVC SortingManager - The user has selected the binary algorithm using arrays
-FILE [INFO ] 2021-12-02 09:52:21,991 main My MVC SortingManager - The sort algorithm took  0.002085 seconds to run
-FILE [INFO ] 2021-12-02 10:04:47,040 main My MVC SortingManager - The user has selected the bubble algorithm using lists
-FILE [INFO ] 2021-12-02 10:04:47,056 main My MVC SortingManager - Successful Bubble Sort
-FILE [INFO ] 2021-12-02 10:04:47,059 main My MVC SortingManager - The sort algorithm took  0.002604 seconds to run
-FILE [INFO ] 2021-12-02 10:13:17,560 main My MVC SortingManager - The user has selected the binary algorithm using arrays
-FILE [INFO ] 2021-12-02 10:13:17,573 main My MVC SortingManager - Successful Binary Sort
-FILE [INFO ] 2021-12-02 10:13:17,575 main My MVC SortingManager - The sort algorithm took  0.001829 seconds to run
+FILE [INFO ] 2021-12-02 14:52:55,495 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-02 14:52:55,515 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-02 14:52:55,517 main My MVC SortingManager - The sort algorithm took  0.002222 seconds to run
+FILE [INFO ] 2021-12-02 14:53:20,215 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-02 14:53:20,230 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-02 14:53:20,232 main My MVC SortingManager - The sort algorithm took  0.002283 seconds to run
+FILE [INFO ] 2021-12-02 14:53:31,453 main My MVC SortingManager - The user has entered the incorrect algorithm type bubbd
+FILE [INFO ] 2021-12-02 14:53:33,379 main My MVC SortingManager - The user has entered the incorrect algorithm type sfef
+FILE [INFO ] 2021-12-02 14:53:40,807 main My MVC SortingManager - The user has selected the collection algorithm using arrays
+FILE [INFO ] 2021-12-02 14:53:40,816 main My MVC SortingManager - Successful Collection Sort
+FILE [INFO ] 2021-12-02 14:53:40,818 main My MVC SortingManager - The sort algorithm took  0.000538 seconds to run
+FILE [INFO ] 2021-12-02 15:01:17,209 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-02 15:01:17,237 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-02 15:01:17,241 main My MVC SortingManager - The sort algorithm took  0.002250 seconds to run
