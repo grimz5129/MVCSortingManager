@@ -6,7 +6,7 @@ public class SorterFactory {
             return new BubbleSort();
         } else if (type.equals("quick")) {
             return new QuickSort();
-        } else if(type.equals("binary")) {
+        } else if(type.equals("tree")) {
             return new BinaryTreeSort();
         } else {
             return null;

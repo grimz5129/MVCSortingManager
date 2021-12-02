@@ -21,3 +21,9 @@ FILE [INFO ] 2021-12-02 16:48:10,249 main My MVC SortingManager - The user has s
 FILE [INFO ] 2021-12-02 16:48:10,253 main My MVC SortingManager - Successful Quick Sort
 FILE [INFO ] 2021-12-02 16:48:10,255 main My MVC SortingManager - The sort algorithm took  0.002650 seconds to run
 FILE [INFO ] 2021-12-02 16:48:11,880 main My MVC SortingManager - The user has ended the program
+FILE [INFO ] 2021-12-02 16:59:41,569 main My MVC SortingManager - The user has selected the binary algorithm using arrays
+FILE [INFO ] 2021-12-02 16:59:41,590 main My MVC SortingManager - Successful Binary Sort
+FILE [INFO ] 2021-12-02 16:59:41,592 main My MVC SortingManager - The sort algorithm took  0.002242 seconds to run
+FILE [INFO ] 2021-12-02 18:26:28,060 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-02 18:26:28,081 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-02 18:26:28,083 main My MVC SortingManager - The sort algorithm took  0.003394 seconds to run

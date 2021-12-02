@@ -2,8 +2,7 @@ package com.sparta.model.test;
 
 import com.sparta.mvc.model.BubbleSort;
 import com.sparta.mvc.model.QuickSort;
-import com.sparta.mvc.model.RandomNumGen;
-import com.sparta.mvc.view.SortingView;
+import com.sparta.mvc.model.SorterFactory;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
@@ -21,14 +20,15 @@ public class SortingTest {
     public void testBubbleSort(){
         String arrExp = "[0, 2, 11, 32, 51, 72, 179, 234]";
         int arr[] = {179,51,72,32,234,11,2,0};
-        assertEquals(arrExp, Arrays.toString(new BubbleSort().sort(arr)));
+//        assertEquals(arrExp, Arrays.toString(new BubbleSort().sort(arr)));
+        assertEquals(arrExp, Arrays.toString(SorterFactory.getType("bubble").sort(arr)));
     }
 
     @DisplayName("Testing bubble sort with negative number")
     @Test
     public void testBubbleSortWithNegative(){
         String arrExp = "[-2, 0, 11, 32, 51, 72, 179, 234]";
-        int arr[] = {179,51,72,32,234,11,-2,0};
+        int arr[] = {179,51,72,32,234,11,-2,0,};
         assertEquals(arrExp, Arrays.toString(new BubbleSort().sort(arr)));
     }
 

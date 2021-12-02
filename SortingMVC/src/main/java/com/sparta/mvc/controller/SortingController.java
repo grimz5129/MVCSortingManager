@@ -42,13 +42,13 @@ public class SortingController {
             }
             Main.logger.info("Successful Collection Sort");
 
-        } else if (choice.equals("binary")) {
+        } else if (choice.equals("tree")) {
             if(type.equals("array")){
-                SortingView.displayArr(SorterFactory.getType("binary").sort(arr), 2);
+                SortingView.displayArr(SorterFactory.getType("tree").sort(arr), 2);
             } else {
 
             }
-            Main.logger.info("Successful Binary Sort");
+            Main.logger.info("Successful Tree Sort");
         }
 
         SortingView.displaySpeed(startTime, System.nanoTime());
