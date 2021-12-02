@@ -57,7 +57,23 @@ public class SortingView {
         Main.logger.info("The sort algorithm took  " + format + " seconds to run");
     }
 
+    public static void continueProgram(){
+        System.out.println("\n Would you like to continue? \n1) Yes \n2) No");
+        Scanner scan = new Scanner(System.in);
+        String option = scan.next().toLowerCase();
+        if(option.equals("yes")){
+            Main.logger.info("The user has continued the program");
+            displayOptions();
+        } else if (option.equals("no")){
+            Main.logger.info("The user has ended the program");
+            System.exit(0);
+        } else {
+            System.out.println("Invalid option");
+            Main.logger.info("The program is waiting for a yes or no");
+            continueProgram();
+        }
 
+    }
 
 
 }

@@ -52,6 +52,7 @@ public class SortingController {
         }
 
         SortingView.displaySpeed(startTime, System.nanoTime());
+        SortingView.continueProgram();
 
     }
 
