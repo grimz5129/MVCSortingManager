@@ -27,3 +27,146 @@ FILE [INFO ] 2021-12-02 16:59:41,592 main My MVC SortingManager - The sort algor
 FILE [INFO ] 2021-12-02 18:26:28,060 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
 FILE [INFO ] 2021-12-02 18:26:28,081 main My MVC SortingManager - Successful Bubble Sort
 FILE [INFO ] 2021-12-02 18:26:28,083 main My MVC SortingManager - The sort algorithm took  0.003394 seconds to run
+FILE [INFO ] 2021-12-03 09:59:41,994 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-03 09:59:42,008 main My MVC SortingManager - The sort algorithm took  0.001301 seconds to run
+FILE [INFO ] 2021-12-03 10:00:56,506 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 10:01:00,580 main My MVC SortingManager - The user has selected the quick algorithm using lists
+FILE [INFO ] 2021-12-03 10:02:03,571 main My MVC SortingManager - The user has selected the quick algorithm using lists
+FILE [INFO ] 2021-12-03 10:04:40,340 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-03 10:04:40,353 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-03 10:04:40,355 main My MVC SortingManager - The sort algorithm took  0.002199 seconds to run
+FILE [INFO ] 2021-12-03 10:04:54,884 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 10:04:58,905 main My MVC SortingManager - The user has selected the quick algorithm using lists
+FILE [INFO ] 2021-12-03 10:05:13,237 main My MVC SortingManager - The user has selected the quick algorithm using lists
+FILE [INFO ] 2021-12-03 10:05:13,252 main My MVC SortingManager - Successful Quick Sort
+FILE [INFO ] 2021-12-03 10:05:13,253 main My MVC SortingManager - The sort algorithm took  0.002135 seconds to run
+FILE [INFO ] 2021-12-03 10:05:17,147 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 10:05:20,944 main My MVC SortingManager - The user has selected the quick algorithm using arrays
+FILE [INFO ] 2021-12-03 10:05:20,949 main My MVC SortingManager - Successful Quick Sort
+FILE [INFO ] 2021-12-03 10:05:20,949 main My MVC SortingManager - The sort algorithm took  0.003622 seconds to run
+FILE [INFO ] 2021-12-03 10:15:15,091 main My MVC SortingManager - The user has selected the collection algorithm using arrays
+FILE [INFO ] 2021-12-03 10:15:15,111 main My MVC SortingManager - Successful Collection Sort
+FILE [INFO ] 2021-12-03 10:15:15,113 main My MVC SortingManager - The sort algorithm took  0.001464 seconds to run
+FILE [INFO ] 2021-12-03 10:15:17,737 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 10:15:22,513 main My MVC SortingManager - The user has selected the collection algorithm using lists
+FILE [INFO ] 2021-12-03 10:15:22,517 main My MVC SortingManager - Successful Collection Sort
+FILE [INFO ] 2021-12-03 10:15:22,518 main My MVC SortingManager - The sort algorithm took  0.002307 seconds to run
+FILE [INFO ] 2021-12-03 10:35:49,312 main My MVC SortingManager - The user has selected the binary algorithm using arrays
+FILE [INFO ] 2021-12-03 10:35:49,325 main My MVC SortingManager - The sort algorithm took  0.000145 seconds to run
+FILE [INFO ] 2021-12-03 10:36:27,041 main My MVC SortingManager - The user has selected the binary algorithm using arrays
+FILE [INFO ] 2021-12-03 10:36:27,059 main My MVC SortingManager - The sort algorithm took  0.000243 seconds to run
+FILE [INFO ] 2021-12-03 10:37:24,964 main My MVC SortingManager - The user has selected the binary algorithm using arrays
+FILE [INFO ] 2021-12-03 10:37:24,976 main My MVC SortingManager - The sort algorithm took  0.000277 seconds to run
+FILE [INFO ] 2021-12-03 11:11:11,553 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 11:11:11,569 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 11:11:11,571 main My MVC SortingManager - The sort algorithm took  0.002316 seconds to run
+FILE [INFO ] 2021-12-03 12:00:54,862 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:01:30,472 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:01:48,873 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:01:48,892 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:01:48,894 main My MVC SortingManager - The sort algorithm took  0.003133 seconds to run
+FILE [INFO ] 2021-12-03 12:04:04,644 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:04:04,661 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:04:04,663 main My MVC SortingManager - The sort algorithm took  0.001925 seconds to run
+FILE [INFO ] 2021-12-03 12:04:20,615 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:04:36,133 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:04:58,994 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:06:15,649 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:07:38,994 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:08:05,717 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:09:57,579 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:10:40,564 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-03 12:10:40,579 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:10:40,581 main My MVC SortingManager - The sort algorithm took  0.000666 seconds to run
+FILE [INFO ] 2021-12-03 12:10:58,256 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:13:19,298 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:13:44,412 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:14:00,747 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:19:23,260 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:19:55,719 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:20:16,260 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:21:12,294 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:23:32,240 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:25:09,577 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:27:24,034 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:27:24,043 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:27:24,044 main My MVC SortingManager - The sort algorithm took  0.002848 seconds to run
+FILE [INFO ] 2021-12-03 12:33:46,503 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:33:46,524 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:33:46,526 main My MVC SortingManager - The sort algorithm took  0.003848 seconds to run
+FILE [INFO ] 2021-12-03 12:34:20,187 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:34:20,196 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:34:20,197 main My MVC SortingManager - The sort algorithm took  0.002360 seconds to run
+FILE [INFO ] 2021-12-03 12:34:38,297 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:34:38,304 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:34:38,305 main My MVC SortingManager - The sort algorithm took  0.001197 seconds to run
+FILE [INFO ] 2021-12-03 12:35:33,620 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:35:33,627 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:35:33,629 main My MVC SortingManager - The sort algorithm took  0.001527 seconds to run
+FILE [INFO ] 2021-12-03 12:35:50,181 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 12:35:50,187 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 12:35:50,189 main My MVC SortingManager - The sort algorithm took  0.001436 seconds to run
+FILE [INFO ] 2021-12-03 13:24:58,015 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:26:11,780 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:29:03,325 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:29:03,334 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 13:29:03,336 main My MVC SortingManager - The sort algorithm took  0.002814 seconds to run
+FILE [INFO ] 2021-12-03 13:29:28,557 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:29:28,571 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 13:29:28,573 main My MVC SortingManager - The sort algorithm took  0.002416 seconds to run
+FILE [INFO ] 2021-12-03 13:39:05,259 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:39:05,276 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 13:39:05,278 main My MVC SortingManager - The sort algorithm took  0.003245 seconds to run
+FILE [INFO ] 2021-12-03 13:39:26,616 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:39:26,629 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 13:39:26,630 main My MVC SortingManager - The sort algorithm took  0.003047 seconds to run
+FILE [INFO ] 2021-12-03 13:48:16,163 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:49:09,567 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:51:21,038 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:51:53,283 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:54:08,612 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:55:02,636 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:55:02,647 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 13:55:02,649 main My MVC SortingManager - The sort algorithm took  0.002907 seconds to run
+FILE [INFO ] 2021-12-03 13:55:31,512 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 13:58:32,023 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:00:04,026 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:02:28,948 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:02:52,234 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:03:38,159 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:03:38,170 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 14:03:38,172 main My MVC SortingManager - The sort algorithm took  0.004205 seconds to run
+FILE [INFO ] 2021-12-03 14:04:20,439 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:04:36,152 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:04:36,160 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 14:04:36,164 main My MVC SortingManager - The sort algorithm took  0.002922 seconds to run
+FILE [INFO ] 2021-12-03 14:05:08,171 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:05:08,177 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 14:05:08,179 main My MVC SortingManager - The sort algorithm took  0.002340 seconds to run
+FILE [INFO ] 2021-12-03 14:05:36,030 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:05:36,042 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 14:05:36,045 main My MVC SortingManager - The sort algorithm took  0.002639 seconds to run
+FILE [INFO ] 2021-12-03 14:06:21,542 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:06:21,552 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 14:06:21,554 main My MVC SortingManager - The sort algorithm took  0.002589 seconds to run
+FILE [INFO ] 2021-12-03 14:06:56,121 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 14:06:56,133 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 14:06:56,135 main My MVC SortingManager - The sort algorithm took  0.002522 seconds to run
+FILE [INFO ] 2021-12-03 15:12:50,123 main My MVC SortingManager - The user has selected the collection algorithm using arrays
+FILE [INFO ] 2021-12-03 15:12:50,137 main My MVC SortingManager - Successful Collection Sort
+FILE [INFO ] 2021-12-03 15:12:50,139 main My MVC SortingManager - The sort algorithm took  0.002158 seconds to run
+FILE [INFO ] 2021-12-03 15:12:52,446 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 15:12:57,715 main My MVC SortingManager - The user has selected the collection algorithm using lists
+FILE [INFO ] 2021-12-03 15:12:57,719 main My MVC SortingManager - Successful Collection Sort
+FILE [INFO ] 2021-12-03 15:12:57,720 main My MVC SortingManager - The sort algorithm took  0.002339 seconds to run
+FILE [INFO ] 2021-12-03 15:12:59,777 main My MVC SortingManager - The program is waiting for a yes or no
+FILE [INFO ] 2021-12-03 15:13:01,750 main My MVC SortingManager - The program is waiting for a yes or no
+FILE [INFO ] 2021-12-03 15:13:02,739 main My MVC SortingManager - The program is waiting for a yes or no
+FILE [INFO ] 2021-12-03 15:13:04,479 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 15:13:08,642 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-03 15:13:08,648 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 15:13:08,649 main My MVC SortingManager - The sort algorithm took  0.005439 seconds to run
+FILE [INFO ] 2021-12-03 15:13:17,009 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-03 15:13:21,903 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-03 15:13:21,906 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-03 15:13:21,908 main My MVC SortingManager - The sort algorithm took  0.001408 seconds to run

@@ -34,11 +34,9 @@ public class SortingController {
 
         } else if(choice.equals("collection")){
             if(type.equals("array")){
-                Arrays.sort(arr);
-                SortingView.displayArr(arr, 2);
+                SortingView.displayArr(SorterFactory.getType("collection").sort(arr), 2);
             } else {
-                Collections.sort(myArr);
-                SortingView.displayList(myArr, 2);
+                SortingView.displayList(SorterFactory.getType("collection").sort(myArr), 2);
             }
             Main.logger.info("Successful Collection Sort");
 

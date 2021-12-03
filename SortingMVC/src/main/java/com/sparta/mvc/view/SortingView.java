@@ -9,11 +9,11 @@ import java.util.Scanner;
 
 public class SortingView {
     public static void displayOptions() {
-        System.out.println("Enter Chosen Algorithm \n1) Bubble \n2) Quick \n3) Collection \n4) Binary");
+        System.out.println("Enter Chosen Algorithm \n1) Bubble \n2) Quick \n3) Collection \n4) Tree");
         Scanner scan = new Scanner(System.in);
         String choice = scan.next().toLowerCase();
 
-        if(choice.equals("bubble") || choice.equals("quick") || choice.equals("collection") || choice.equals("binary")){
+        if(choice.equals("bubble") || choice.equals("quick") || choice.equals("collection") || choice.equals("tree")){
             System.out.println("Enter Type of List \n1) Array \n2) List");
             Scanner scan2 = new Scanner(System.in);
             String type = scan2.next().toLowerCase();
