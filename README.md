@@ -10,7 +10,7 @@ This is a Java program that provides a command line based interface to allow a u
 
 ### Console View
 
-![Chose Algorithm](MVCSortingManager/SortingMVC/src/main/resources/images/algo.png)
+![Chose Algorithm](SortingMVC/src/main/resources/images/algo.png)
 
 The user can enter one of the displayed algorithms. 
 
