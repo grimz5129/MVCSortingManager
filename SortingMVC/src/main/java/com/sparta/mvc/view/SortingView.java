@@ -7,17 +7,23 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SortingView {
+    private static final String algoString = ("-----------------------\nEnter Chosen Algorithm \n1) Bubble " +
+            "\n2) Quick \n3) Collection \n4) Tree \n-----------------------");
+
+    private static final String typeString = ("-----------------------\nEnter Type of List " +
+            "\n1) Array \n2) List \n-----------------------");
+
     /**
      * When called the program starts and provides an interface for the use to select their options.
      * This also takes input from the user.
      */
     public static void displayOptions() {
-        System.out.println("-----------------------\nEnter Chosen Algorithm \n1) Bubble \n2) Quick \n3) Collection \n4) Tree \n-----------------------");
+        System.out.println(algoString);
         Scanner scan = new Scanner(System.in);
         String choice = scan.next().toLowerCase();
 
         if(choice.equals("bubble") || choice.equals("quick") || choice.equals("collection") || choice.equals("tree")){
-            System.out.println("-----------------------\nEnter Type of List \n1) Array \n2) List \n-----------------------");
+            System.out.println(typeString);
             Scanner scan2 = new Scanner(System.in);
             String type = scan2.next().toLowerCase();
 
@@ -44,11 +50,11 @@ public class SortingView {
      */
     public static void displayArr(int arr[], int i){
         if(i == 1) {
-            System.out.println("-------------------------------------------------" +
+            System.out.println("----------------------------------------------------" +
                     "-------------------------------------------\nUnsorted Array: " + Arrays.toString(arr));
         } else {
             System.out.println("Sorted Array: " + Arrays.toString(arr) + "\n-------------------------------------------------" +
-                    "-------------------------------------------");
+                    "----------------------------------------------");
         }
     }
 
@@ -61,9 +67,9 @@ public class SortingView {
     public static void displayList(List<Integer> list, int i){
         if(i == 1){
             System.out.println("-------------------------------------------------" +
-                    "-------------------------------------------\nUnsorted List: " + list);
+                    "----------------------------------------------\nUnsorted List: " + list);
         } else {
-            System.out.println("Sorted List: " + list + "\n-------------------------------------------------" +
+            System.out.println("Sorted List: " + list + "\n----------------------------------------------------" +
             "-------------------------------------------");
         }
     }
@@ -85,7 +91,8 @@ public class SortingView {
      * This method provides an option to continue running the sorting manager or exit.
      */
     public static void continueProgram(){
-        System.out.println("\nWould you like to continue? \n1) Yes \n2) No");
+        System.out.println("----------------------------\nWould you like to continue? \n1) Yes \n2) No" +
+                "\n----------------------------");
         Scanner scan = new Scanner(System.in);
         String option = scan.next().toLowerCase();
         if(option.equals("yes")){

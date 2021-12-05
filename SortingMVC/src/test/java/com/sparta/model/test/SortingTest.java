@@ -3,7 +3,6 @@ package com.sparta.model.test;
 import com.sparta.mvc.model.SorterFactory;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -27,8 +26,8 @@ public class SortingTest {
     @DisplayName("Testing bubble sort with negative number")
     @Test
     public void testBubbleSortWithNegative(){
-        String arrExp = "[-2, 0, 11, 32, 51, 72, 179, 234]";
-        int arr[] = {179,51,72,32,234,11,-2,0,};
+        String arrExp = "[-234, -51, -32, -11, -2, 0, 72, 179]";
+        int arr[] = {179,-51,72,-32,-234,-11,-2,0,};
         assertEquals(arrExp, Arrays.toString(SorterFactory.getType("bubble").sort(arr)));
     }
 
@@ -46,8 +45,8 @@ public class SortingTest {
     @DisplayName("Testing quick sort with negative number")
     @Test
     public void testQuickSortWithNegative(){
-        String arrExp = "[-2, 0, 11, 32, 51, 72, 179, 234]";
-        int arr[] = {179,51,72,32,234,11,-2,0};
+        String arrExp = "[-234, -72, -32, -11, -2, 0, 51, 179]";
+        int arr[] = {179,51,-72,-32,-234,-11,-2,0};
         assertEquals(arrExp, Arrays.toString(SorterFactory.getType("quick").sort(arr)));
     }
 
@@ -57,8 +56,8 @@ public class SortingTest {
     @DisplayName("Testing collection sort with arrays")
     @Test
     public void testArraysSort(){
-        int arr[] = {179,51,72,32,234,11,-2,0};
-        String arrExp = "[-2, 0, 11, 32, 51, 72, 179, 234]";
+        int arr[] = {179,51,72,32,234,11,2,0};
+        String arrExp = "[0, 2, 11, 32, 51, 72, 179, 234]";
         Arrays.sort(arr);
         assertEquals(arrExp, Arrays.toString(arr));
     }
@@ -66,8 +65,8 @@ public class SortingTest {
     @DisplayName("Testing collection sort with arrays negatives")
     @Test
     public void testArraysSortNegative(){
-        int arr[] = {179,51,72,32,234,11,-2,0};
-        String arrExp = "[-2, 0, 11, 32, 51, 72, 179, 234]";
+        int arr[] = {179,51,-72,-32,-234,-11,-2,0};
+        String arrExp = "[-234, -72, -32, -11, -2, 0, 51, 179]";
         Arrays.sort(arr);
         assertEquals(arrExp, Arrays.toString(arr));
     }

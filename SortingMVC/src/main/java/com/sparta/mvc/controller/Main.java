@@ -15,6 +15,7 @@ public class Main {
      * @param args
      */
     public static void main(String[] args) {
+        logger.info("The program has been initiated");
         SortingView.displayOptions();
     }
 }
