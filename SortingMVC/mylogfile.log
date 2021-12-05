@@ -17,3 +17,19 @@ FILE [INFO ] 2021-12-05 15:01:46,071 main My MVC SortingManager - The user has c
 FILE [INFO ] 2021-12-05 15:01:54,299 main My MVC SortingManager - The user has selected the tree algorithm using lists
 FILE [INFO ] 2021-12-05 15:01:54,301 main My MVC SortingManager - Successful Tree Sort
 FILE [INFO ] 2021-12-05 15:01:54,303 main My MVC SortingManager - The sort algorithm took  0.001321 seconds to run
+FILE [INFO ] 2021-12-05 15:08:10,612 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:11:58,239 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:22:12,206 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:22:18,492 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-05 15:22:18,519 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:22:18,522 main My MVC SortingManager - The sort algorithm took  0.003464 seconds to run
+FILE [INFO ] 2021-12-05 15:23:23,114 main My MVC SortingManager - The user has ended the program
+FILE [INFO ] 2021-12-05 15:23:29,091 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:23:33,624 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-05 15:23:33,648 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:23:33,652 main My MVC SortingManager - The sort algorithm took  0.004083 seconds to run
+FILE [INFO ] 2021-12-05 15:24:51,080 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:24:56,904 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 15:24:56,929 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:24:56,932 main My MVC SortingManager - The sort algorithm took  0.003206 seconds to run
+FILE [INFO ] 2021-12-05 15:31:12,541 main My MVC SortingManager - The user has continued the program
