@@ -1,12 +1,17 @@
 package com.sparta.mvc.model;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Stack;
 
 public class TreeSort implements Sorter {
 
+    /**
+     * Sorter interface method for the tree sort that sorts an array.
+     * returns the sorted array.
+     * @param arr
+     * @return
+     */
     @Override
     public int[] sort(int[] arr) {
 
@@ -19,6 +24,13 @@ public class TreeSort implements Sorter {
         return arr2;
     }
 
+    /**
+     * Sorter interface method for the tree sort.
+     * returns the sorted list.
+     * @param list
+     * @param <T>
+     * @return
+     */
     @Override
     public <T extends Comparable> List<T> sort(List<T> list) {
         BST bst2 = new BST((Integer) list.get(0));
@@ -30,7 +42,9 @@ public class TreeSort implements Sorter {
         return list2;
     }
 
-    // Class for tree nodes
+    /**
+     * Class for the nodes.
+     */
     class Node {
         int value;
         Node left;
@@ -44,7 +58,9 @@ public class TreeSort implements Sorter {
         }
     }
 
-    // Class for Binary Search Tree
+    /**
+     * Binary search tree class.
+     */
     class BST {
         Node node;
 
@@ -89,7 +105,7 @@ public class TreeSort implements Sorter {
         }
 
         /**
-         * This inOrder method takes an empty list<T> and provides a sorted arraylist
+         * This inOrder method takes an empty list<T> and sorts the list.
          * @param node
          * @param list
          * @param <T>

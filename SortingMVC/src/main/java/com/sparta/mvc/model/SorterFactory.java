@@ -1,6 +1,11 @@
 package com.sparta.mvc.model;
 
 public class SorterFactory {
+    /**
+     * Sorter Factory that returns the sort method for each class.
+     * @param type
+     * @return
+     */
     public static Sorter getType(String type) {
         if (type.equals("bubble")) {
             return new BubbleSort();

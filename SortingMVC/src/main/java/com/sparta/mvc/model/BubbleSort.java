@@ -1,13 +1,11 @@
 package com.sparta.mvc.model;
 
-import com.sparta.mvc.controller.Main;
-
 import java.util.List;
 
 public class BubbleSort implements Sorter{
     /**
-     * Bubble Sort Array method that overrides the interface method
-     * returns sorted array
+     * Bubble Sort Array method that overrides the interface method.
+     * returns sorted array.
      * @param array
      * @return
      */
@@ -33,8 +31,8 @@ public class BubbleSort implements Sorter{
     }
 
     /**
-     * Bubble Sort List<T> method that overrides the interface method
-     * returns sorted list
+     * Bubble Sort List<T> method that overrides the interface method.
+     * returns sorted list.
      * @param list
      * @param <T>
      * @return

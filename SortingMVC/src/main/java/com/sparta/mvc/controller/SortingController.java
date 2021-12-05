@@ -5,6 +5,13 @@ import com.sparta.mvc.view.SortingView;
 import java.util.*;
 
 public class SortingController {
+    /**
+     * The algoChoice method takes two strings as a parameter and runs the appropriate sorting algorithms.
+     * The output is sent to the view to display.
+     * The choice is the algorithm and the type is either array or list.
+     * @param choice
+     * @param type
+     */
     public static void algoChoice(String choice, String type){
         int[] arr = RandomNumGen.generateArr();
         List<Integer> myArr = RandomNumGen.generateList();

@@ -2,12 +2,15 @@ package com.sparta.mvc.view;
 
 import com.sparta.mvc.controller.Main;
 import com.sparta.mvc.controller.SortingController;
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
 public class SortingView {
+    /**
+     * When called the program starts and provides an interface for the use to select their options.
+     * This also takes input from the user.
+     */
     public static void displayOptions() {
         System.out.println("-----------------------\nEnter Chosen Algorithm \n1) Bubble \n2) Quick \n3) Collection \n4) Tree \n-----------------------");
         Scanner scan = new Scanner(System.in);
@@ -33,6 +36,12 @@ public class SortingView {
 
     }
 
+    /**
+     * This method takes an array and an int as parameters.
+     * Depending on the int the array is displayed with notation added to distinguish the state of the array.
+     * @param arr
+     * @param i
+     */
     public static void displayArr(int arr[], int i){
         if(i == 1) {
             System.out.println("-------------------------------------------------" +
@@ -43,6 +52,12 @@ public class SortingView {
         }
     }
 
+    /**
+     * This method takes a list and an int as parameters.
+     * Depending on the int the array is displayed with notation added to distinguish the state of the list.
+     * @param list
+     * @param i
+     */
     public static void displayList(List<Integer> list, int i){
         if(i == 1){
             System.out.println("-------------------------------------------------" +
@@ -53,7 +68,12 @@ public class SortingView {
         }
     }
 
-
+    /**
+     * This method takes two parameters of type long.
+     * This method calculates the difference in run time and display it in an appropriate format.
+     * @param startTime
+     * @param endTime
+     */
     public static void displaySpeed(long startTime, long endTime){
         double var = ((double)endTime - startTime) / 1000000000.0;
         String format = String.format("%.6f",var);
@@ -61,6 +81,9 @@ public class SortingView {
         Main.logger.info("The sort algorithm took  " + format + " seconds to run");
     }
 
+    /**
+     * This method provides an option to continue running the sorting manager or exit.
+     */
     public static void continueProgram(){
         System.out.println("\nWould you like to continue? \n1) Yes \n2) No");
         Scanner scan = new Scanner(System.in);

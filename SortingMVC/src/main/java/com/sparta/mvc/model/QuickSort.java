@@ -4,7 +4,11 @@ import java.util.List;
 
 public class QuickSort implements Sorter{
 
-    //Override the Sorter sort method which calls quicksort
+    /**
+     * Override the Sorter sort method and calls quicksort on arrays.
+     * @param arr
+     * @return
+     */
     @Override
     public int[] sort(int arr[]) {
         if (arr == null) return null;
@@ -16,7 +20,12 @@ public class QuickSort implements Sorter{
         }
     }
 
-    //quicksort applied to both partitions
+    /**
+     * quicksort applied to the array partitions.
+     * @param arr
+     * @param start
+     * @param end
+     */
     public void quickSort(int arr[], int start, int end) {
         if (start < end) {
             int partIndex = partition(arr, start, end);
@@ -26,7 +35,13 @@ public class QuickSort implements Sorter{
         }
     }
 
-    //this sorts the array
+    /**
+     * This sorts the quicksort array.
+     * @param arr
+     * @param start
+     * @param end
+     * @return
+     */
     private int partition(int arr[], int start, int end) {
         int pivot = arr[end];
         int i = (start - 1);
@@ -48,7 +63,12 @@ public class QuickSort implements Sorter{
         return i+1;
     }
 
-    //quicksort that takes a generic list of type T
+    /**
+     * Override the Sorter sort method and calls quicksort on lists
+     * @param list
+     * @param <T>
+     * @return
+     */
     @Override
     public <T extends Comparable>List<T> sort(List<T> list) {
         if (list == null) return null;
@@ -60,7 +80,13 @@ public class QuickSort implements Sorter{
         }
     }
 
-    //sorts both partitions
+    /**
+     * The quicksort list method.
+     * @param list
+     * @param start
+     * @param end
+     * @param <T>
+     */
     public static <T extends Comparable> void quickSortList(List<T> list, int start, int end)
     {
         if (start < end)
@@ -71,7 +97,14 @@ public class QuickSort implements Sorter{
         }
     }
 
-    //swaps the elements of the arraylist
+    /**
+     * This sorts the quicksort list.
+     * @param list
+     * @param start
+     * @param end
+     * @param <T>
+     * @return
+     */
     private static <T extends Comparable> int partitionList(List<T> list, int start, int end) {
         T pivot = list.get(end);
         int i = (start - 1);
