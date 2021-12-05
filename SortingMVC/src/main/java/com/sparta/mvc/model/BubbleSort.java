@@ -5,6 +5,12 @@ import com.sparta.mvc.controller.Main;
 import java.util.List;
 
 public class BubbleSort implements Sorter{
+    /**
+     * Bubble Sort Array method that overrides the interface method
+     * returns sorted array
+     * @param array
+     * @return
+     */
     @Override
     public int[] sort(int array[]) {
         // length of the array
@@ -26,6 +32,13 @@ public class BubbleSort implements Sorter{
         return array;
     }
 
+    /**
+     * Bubble Sort List<T> method that overrides the interface method
+     * returns sorted list
+     * @param list
+     * @param <T>
+     * @return
+     */
     @Override
     public <T extends Comparable>List<T> sort(List<T> list) {
         // length of the list

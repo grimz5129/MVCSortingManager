@@ -9,12 +9,12 @@ import java.util.Scanner;
 
 public class SortingView {
     public static void displayOptions() {
-        System.out.println("Enter Chosen Algorithm \n1) Bubble \n2) Quick \n3) Collection \n4) Tree");
+        System.out.println("-----------------------\nEnter Chosen Algorithm \n1) Bubble \n2) Quick \n3) Collection \n4) Tree \n-----------------------");
         Scanner scan = new Scanner(System.in);
         String choice = scan.next().toLowerCase();
 
         if(choice.equals("bubble") || choice.equals("quick") || choice.equals("collection") || choice.equals("tree")){
-            System.out.println("Enter Type of List \n1) Array \n2) List");
+            System.out.println("-----------------------\nEnter Type of List \n1) Array \n2) List \n-----------------------");
             Scanner scan2 = new Scanner(System.in);
             String type = scan2.next().toLowerCase();
 
@@ -35,17 +35,21 @@ public class SortingView {
 
     public static void displayArr(int arr[], int i){
         if(i == 1) {
-            System.out.println("Unsorted Array: " + Arrays.toString(arr));
+            System.out.println("-------------------------------------------------" +
+                    "-------------------------------------------\nUnsorted Array: " + Arrays.toString(arr));
         } else {
-            System.out.println("Sorted Array: " + Arrays.toString(arr));
+            System.out.println("Sorted Array: " + Arrays.toString(arr) + "\n-------------------------------------------------" +
+                    "-------------------------------------------");
         }
     }
 
-    public static void displayList(List<Integer> arr, int i){
+    public static void displayList(List<Integer> list, int i){
         if(i == 1){
-            System.out.println("Unsorted List: " + arr);
+            System.out.println("-------------------------------------------------" +
+                    "-------------------------------------------\nUnsorted List: " + list);
         } else {
-            System.out.println("Sorted List: " + arr);
+            System.out.println("Sorted List: " + list + "\n-------------------------------------------------" +
+            "-------------------------------------------");
         }
     }
 
@@ -58,7 +62,7 @@ public class SortingView {
     }
 
     public static void continueProgram(){
-        System.out.println("\n Would you like to continue? \n1) Yes \n2) No");
+        System.out.println("\nWould you like to continue? \n1) Yes \n2) No");
         Scanner scan = new Scanner(System.in);
         String option = scan.next().toLowerCase();
         if(option.equals("yes")){

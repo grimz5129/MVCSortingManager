@@ -44,7 +44,7 @@ public class SortingController {
             if(type.equals("array")){
                 SortingView.displayArr(SorterFactory.getType("tree").sort(arr), 2);
             } else {
-
+                SortingView.displayList(SorterFactory.getType("tree").sort(myArr), 2);
             }
             Main.logger.info("Successful Tree Sort");
         }

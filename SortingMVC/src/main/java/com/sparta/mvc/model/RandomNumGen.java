@@ -13,7 +13,7 @@ public class RandomNumGen {
 
     public static List<Integer> generateList(){
         List<Integer> myArr = new ArrayList<>();
-        for(int i = 0; i <= 20; i++){
+        for(int i = 0; i < 20; i++){
             myArr.add(new Random().nextInt(100));
         }
         return myArr;
