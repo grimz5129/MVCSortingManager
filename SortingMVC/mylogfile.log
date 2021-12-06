@@ -33,3 +33,117 @@ FILE [INFO ] 2021-12-05 15:24:56,904 main My MVC SortingManager - The user has s
 FILE [INFO ] 2021-12-05 15:24:56,929 main My MVC SortingManager - Successful Bubble Sort
 FILE [INFO ] 2021-12-05 15:24:56,932 main My MVC SortingManager - The sort algorithm took  0.003206 seconds to run
 FILE [INFO ] 2021-12-05 15:31:12,541 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 15:46:27,894 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:46:33,281 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 15:47:40,608 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 15:47:44,684 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-05 15:47:44,707 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:47:44,711 main My MVC SortingManager - The sort algorithm took  0.003698 seconds to run
+FILE [INFO ] 2021-12-05 15:47:46,474 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 15:47:49,866 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 15:47:49,869 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:47:49,871 main My MVC SortingManager - The sort algorithm took  0.002047 seconds to run
+FILE [INFO ] 2021-12-05 15:47:55,770 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 15:48:01,537 main My MVC SortingManager - The user has selected the collection algorithm using arrays
+FILE [INFO ] 2021-12-05 15:48:01,542 main My MVC SortingManager - Successful Collection Sort
+FILE [INFO ] 2021-12-05 15:48:01,544 main My MVC SortingManager - The sort algorithm took  0.004530 seconds to run
+FILE [INFO ] 2021-12-05 15:48:05,171 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 15:48:09,459 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 15:48:09,461 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:48:09,462 main My MVC SortingManager - The sort algorithm took  0.000880 seconds to run
+FILE [INFO ] 2021-12-05 15:48:18,346 main My MVC SortingManager - The program is waiting for a yes or no
+FILE [INFO ] 2021-12-05 15:48:19,812 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 15:48:23,548 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 15:48:23,551 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:48:23,552 main My MVC SortingManager - The sort algorithm took  0.001804 seconds to run
+FILE [INFO ] 2021-12-05 15:48:26,621 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 15:48:31,545 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 15:48:31,548 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 15:48:31,553 main My MVC SortingManager - The sort algorithm took  0.000571 seconds to run
+FILE [INFO ] 2021-12-05 21:49:46,533 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 21:49:55,642 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 21:49:55,668 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 21:49:55,671 main My MVC SortingManager - The sort algorithm took  0.002516 seconds to run
+FILE [INFO ] 2021-12-05 21:50:06,507 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 21:50:10,287 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-05 21:50:10,296 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-05 21:50:10,298 main My MVC SortingManager - The sort algorithm took  0.008126 seconds to run
+FILE [INFO ] 2021-12-05 21:52:25,747 main My MVC SortingManager - The user has ended the program
+FILE [INFO ] 2021-12-05 21:59:43,611 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 21:59:53,696 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 21:59:57,609 main My MVC SortingManager - The user has selected the bubble algorithm using arrays
+FILE [INFO ] 2021-12-05 22:00:06,312 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 22:00:06,314 main My MVC SortingManager - The sort algorithm took  0.004035 seconds to run
+FILE [INFO ] 2021-12-05 22:00:17,879 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:00:21,848 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:00:24,638 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-05 22:00:24,639 main My MVC SortingManager - The sort algorithm took  0.004878 seconds to run
+FILE [INFO ] 2021-12-05 22:00:51,184 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:00:56,413 main My MVC SortingManager - The user has selected the collection algorithm using arrays
+FILE [INFO ] 2021-12-05 22:01:47,486 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:01:52,283 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:01:59,616 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-05 22:01:59,619 main My MVC SortingManager - The sort algorithm took  0.004628 seconds to run
+FILE [INFO ] 2021-12-05 22:02:15,651 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:02:22,783 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-05 22:02:26,394 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-05 22:02:26,396 main My MVC SortingManager - The sort algorithm took  0.003877 seconds to run
+FILE [INFO ] 2021-12-05 22:03:44,823 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:03:50,826 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:03:53,383 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-05 22:03:53,385 main My MVC SortingManager - The sort algorithm took  0.005963 seconds to run
+FILE [INFO ] 2021-12-05 22:04:02,241 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:04:06,973 main My MVC SortingManager - The user has selected the quick algorithm using lists
+FILE [INFO ] 2021-12-05 22:04:11,324 main My MVC SortingManager - Successful Quick Sort
+FILE [INFO ] 2021-12-05 22:04:11,326 main My MVC SortingManager - The sort algorithm took  0.068735 seconds to run
+FILE [INFO ] 2021-12-05 22:04:29,572 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:04:33,064 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:05:59,452 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:06:03,182 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:06:15,784 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-05 22:06:15,786 main My MVC SortingManager - The sort algorithm took  0.005654 seconds to run
+FILE [INFO ] 2021-12-05 22:06:23,932 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:06:27,275 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-05 22:08:58,140 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:09:01,609 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:10:10,540 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:10:13,256 main My MVC SortingManager - The user has entered the incorrect algorithm type tree\
+FILE [INFO ] 2021-12-05 22:10:17,016 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:10:32,714 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:10:36,103 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:10:38,303 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-05 22:10:38,305 main My MVC SortingManager - The sort algorithm took  0.005725 seconds to run
+FILE [INFO ] 2021-12-05 22:10:41,881 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-05 22:10:45,498 main My MVC SortingManager - The user has selected the tree algorithm using arrays
+FILE [INFO ] 2021-12-05 22:11:38,064 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:11:41,382 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-05 22:13:00,988 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:13:05,212 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-05 22:15:26,824 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:15:30,333 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-05 22:16:13,904 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-05 22:16:17,407 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-06 09:25:53,983 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-06 09:25:58,544 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-06 09:26:01,450 main My MVC SortingManager - Successful Bubble Sort
+FILE [INFO ] 2021-12-06 09:26:01,453 main My MVC SortingManager - The sort algorithm took  0.005399 seconds to run
+FILE [INFO ] 2021-12-06 09:26:04,343 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-06 09:26:07,613 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-06 09:26:09,938 main My MVC SortingManager - The user has caused an exception java.util.InputMismatchException
+FILE [INFO ] 2021-12-06 09:26:43,790 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-06 09:26:48,459 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-06 09:26:50,953 main My MVC SortingManager - The user has caused an exception java.util.InputMismatchException
+FILE [INFO ] 2021-12-06 09:26:57,105 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-06 09:27:02,522 main My MVC SortingManager - The user has caused an exception java.util.InputMismatchException
+FILE [INFO ] 2021-12-06 09:27:06,494 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-06 09:27:08,471 main My MVC SortingManager - Successful Tree Sort
+FILE [INFO ] 2021-12-06 09:27:08,475 main My MVC SortingManager - The sort algorithm took  0.004291 seconds to run
+FILE [INFO ] 2021-12-06 09:28:31,350 main My MVC SortingManager - The user has continued the program
+FILE [INFO ] 2021-12-06 09:28:35,978 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-06 09:29:26,400 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-06 09:29:28,146 main My MVC SortingManager - The user has entered the incorrect algorithm type bubbl
+FILE [INFO ] 2021-12-06 09:29:31,902 main My MVC SortingManager - The user has selected the bubble algorithm using lists
+FILE [INFO ] 2021-12-06 09:29:33,912 main My MVC SortingManager - The user has caused an exception java.util.InputMismatchException
+FILE [INFO ] 2021-12-06 09:32:48,353 main My MVC SortingManager - The program has been initiated
+FILE [INFO ] 2021-12-06 09:32:52,036 main My MVC SortingManager - The user has selected the tree algorithm using lists
+FILE [INFO ] 2021-12-06 09:32:53,911 main My MVC SortingManager - The user has caused an exception java.util.InputMismatchException

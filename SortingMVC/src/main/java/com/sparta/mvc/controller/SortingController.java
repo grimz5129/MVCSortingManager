@@ -55,7 +55,6 @@ public class SortingController {
             }
             Main.logger.info("Successful Tree Sort");
         }
-
         SortingView.displaySpeed(startTime, System.nanoTime());
         SortingView.continueProgram();
 

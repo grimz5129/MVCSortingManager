@@ -2,7 +2,10 @@ package com.sparta.mvc.view;
 
 import com.sparta.mvc.controller.Main;
 import com.sparta.mvc.controller.SortingController;
+import com.sparta.mvc.model.RandomNumGen;
+
 import java.util.Arrays;
+import java.util.InputMismatchException;
 import java.util.List;
 import java.util.Scanner;
 
@@ -13,8 +16,10 @@ public class SortingView {
     private static final String typeString = ("-----------------------\nEnter Type of List " +
             "\n1) Array \n2) List \n-----------------------");
 
+    private static final String arrSize = ("-----------------------\nEnter array size \n-----------------------");
+
     /**
-     * When called the program starts and provides an interface for the use to select their options.
+     * When called the program starts and provides an interface for the user to select their options.
      * This also takes input from the user.
      */
     public static void displayOptions() {
@@ -29,17 +34,25 @@ public class SortingView {
 
             if(type.equals("array") || type.equals("list")){
                 Main.logger.info("The user has selected the " + choice + " algorithm using " + type + "s");
-                SortingController.algoChoice(choice, type);
+                System.out.println(arrSize);
+                Scanner scan3 = new Scanner(System.in);
+                try {
+                    int size = scan3.nextInt();
+                    RandomNumGen.setSize(size);
+                    SortingController.algoChoice(choice, type);
+                } catch (InputMismatchException e) {
+                    System.err.println("Invalid Input");
+                    Main.logger.info("The user has caused an exception " + e);
+                    displayOptions();
+                }
             } else {
                 Main.logger.info("The user has entered the incorrect array type " + type);
                 displayOptions();
             }
-
         } else {
             Main.logger.info("The user has entered the incorrect algorithm type " + choice);
             displayOptions();
         }
-
     }
 
     /**
